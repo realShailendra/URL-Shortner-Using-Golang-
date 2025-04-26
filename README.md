@@ -107,16 +107,6 @@ https://github.com/realShailendra
 
 ---
 
-## ⚡ Improvements (Next Steps)
-
-- Persist shortened URLs into a database (e.g., MongoDB, Redis)
-- Add expiration time for short links
-- Add analytics (click count, country stats, etc.)
-- Deploy using Docker
-- Use a custom domain for shorter links (like `short.ly/xyz123`)
-
----
-
 
 
 ## ✨ Author
